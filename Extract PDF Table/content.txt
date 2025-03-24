@@ -1,0 +1,57 @@
+   10   Dextromethorphan polistirex   12.45   124.50
+   BPXPN-00057
+   25   Venlafaxine Hydrochloride   16.00   400.00
+   BPXPN-00012
+   25   Metoclopramide Hydrochloride (BPXPO-00537)   9.99   249.75
+   BPXPN-00002
+   10   Avobenzone, octinoxate (BPXPO-00538)   4.45   44.50
+   BPXPN-00027
+   10   Verapamil hydrochloride   7.89   78.90
+   BPXPN-00066
+   15   Tiagabine hydrochloride   10.25   153.75
+   BPXPN-00017
+   10   Ziprasidone hydrochloride (BPXPO-00537)   34.99   349.90
+   BPXPN-00044
+   10   Risperidone   34.99   349.90
+   BPXPN-00023
+   10   Metoprolol succinate   34.99   349.90
+   BPXPN-00067
+   10   Acetaminophen   34.99   349.90
+   BPXPN-00045
+   15   Sorafenib   16.00   240.00
+   BPXPN-00018
+   15   Telmisartan   9.99   149.85
+   BPXPN-00022
+   15   Famotidine   4.45   66.75
+   BPXPN-00068
+   15   Methylphenidate Hydrochloride   7.89   118.35
+   BPXPN-00005
+   100   Ibuprofen (BPXPO-00538)   0.99   99.00
+   BPXPN-00052
+   15   Metformin Hydrochloride   (BPXPO-00538)   2.15   32.25
+   BPXPN-00046
+   15   Avobenzone, Octisalate and Octocrylene   16.99   254.85
+   BPXPN-00069
+   10   Carisoprodol   34.99   349.90
+   BPXPN-00070
+   10   Losartan Potassium   34.99   349.90
+   BPXPN-00047
+   10   Pentazocine Hydrochloride and Naloxone Hydrochloride   34.99   349.90
+   BPXPN-00051
+   25   Omeprazole   9.99   249.75
+   BPXPN-00071
+   25   Losartan Potassium   4.45   111.25
+   BPXPN-00019
+   10   Saline   7.89   78.90
+   BPXPN-00048
+   25   Titanium dioxide   10.25   256.25
+   BPXPN-00021
+   25   Bicalutamide   (BPXPO-00538)   2.15   53.75
+   BPXPN-00049
+   15   Ampicillin sodium   16.99   254.85
+   BPXPN-00050
+   15   Octinoxate, Titanium Dioxide, Octisalate   12.45   186.75
+   BPXPN-00004
+   25   Cavia porcellus hair and cavia porcellus skin   12.45   311.25
+   BPXPN-00020
+   
